@@ -1,0 +1,16 @@
+{
+  "name": "car-rental-system",
+  "version": "1.0.0",
+  "description": "\"this is the car rental system api project\"",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "\"Vedant Sen\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongodb": "^6.15.0"
+  }
+}
